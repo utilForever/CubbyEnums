@@ -2,6 +2,10 @@
 
 A special way to convert string<->enum in C++ using X Macro technique and template specialization
 
+References:
+- https://docs.microsoft.com/en-us/cpp/cpp/compiler-limits?view=vs-2017
+- https://stackoverflow.com/questions/207976/how-to-easily-map-c-enums-to-strings
+
 ## How To Use
 
 1. Create a file for enumerator such as `Fruit.def`.
